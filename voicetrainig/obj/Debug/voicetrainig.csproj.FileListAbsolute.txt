@@ -1,0 +1,161 @@
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.config
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\bin\Debug\voicetrainig.pdb
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_menu.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pdb
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_logo.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pcr_kenarlık.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.buton.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_hayvan.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_hakkinda.resources
+c:\users\mustafa\documents\visual studio 2012\Projects\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_bitkiler.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.config
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pdb
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.pdb
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csprojResolveAssemblyReference.cache
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.buton.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_hakkinda.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_menu.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pcr_kenarlık.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.Properties.Resources.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_bitkiler.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_hayvan.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_logo.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.GenerateResource.Cache
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\Interop.SpeechLib.dll
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.ResolveComReference.cache
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\bin\Debug\Microsoft.Speech.dll
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform2_su.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.config
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\Interop.SpeechLib.dll
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.ResolveComReference.cache
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pdb
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\bin\Debug\voicetrainig.pdb
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\bin\Debug\Microsoft.Speech.dll
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csprojResolveAssemblyReference.cache
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.buton.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_hakkinda.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_menu.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pcr_kenarlık.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform2_su.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.Properties.Resources.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_bitkiler.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_hayvan.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_logo.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.GenerateResource.Cache
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform3_kara.resources
+C:\Users\ERDİNÇ AÇIKGÖZ\Desktop\Proje\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_gunlukhayat.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.config
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\Interop.SpeechLib.dll
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.ResolveComReference.cache
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pdb
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.pdb
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.buton.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_gunlukhayat.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_hakkinda.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_menu.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pcr_kenarlık.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform2_su.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform3_kara.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_bitkiler.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_hayvan.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_logo.resources
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.manifest
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\bin\Debug\voicetrainig.application
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe.manifest
+C:\Users\TOSHIBA\Desktop\voicetrainig\voicetrainig\obj\Debug\voicetrainig.application
+D:\Masaüstü\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.config
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\Interop.SpeechLib.dll
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.ResolveComReference.cache
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pdb
+D:\Masaüstü\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.manifest
+D:\Masaüstü\voicetrainig\voicetrainig\bin\Debug\voicetrainig.application
+D:\Masaüstü\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe
+D:\Masaüstü\voicetrainig\voicetrainig\bin\Debug\voicetrainig.pdb
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csprojResolveAssemblyReference.cache
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.anCat.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.buton.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_gunlukhayat.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_hakkinda.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_menu.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pcr_kenarlık.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform2_su.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform3_kara.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.Properties.Resources.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_bitkiler.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_hayvan.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_logo.resources
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.GenerateResource.Cache
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe.manifest
+D:\Masaüstü\voicetrainig\voicetrainig\obj\Debug\voicetrainig.application
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.config
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\Interop.SpeechLib.dll
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.ResolveComReference.cache
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pdb
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.manifest
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\bin\Debug\voicetrainig.application
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\bin\Debug\voicetrainig.pdb
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csprojResolveAssemblyReference.cache
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.anCat.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.buton.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_gunlukhayat.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_hakkinda.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_menu.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pcr_kenarlık.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform2_su.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform3_kara.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.Properties.Resources.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_bitkiler.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_hayvan.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_logo.resources
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.GenerateResource.Cache
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe.manifest
+D:\Erdinc\Bilişim\Yazılım\voicetrainig\voicetrainig\obj\Debug\voicetrainig.application
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.config
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\Interop.SpeechLib.dll
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.ResolveComReference.cache
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pdb
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe.manifest
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\bin\Debug\voicetrainig.application
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\bin\Debug\voicetrainig.exe
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\bin\Debug\voicetrainig.pdb
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csprojResolveAssemblyReference.cache
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.anCat.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.buton.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_gunlukhayat.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_hakkinda.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.frm_menu.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.pcr_kenarlık.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform2_su.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.ornekform3_kara.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.Properties.Resources.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_bitkiler.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_hayvan.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.usr_logo.resources
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.csproj.GenerateResource.Cache
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.exe.manifest
+D:\Softwareee\Project'S\Mixed Software Project's\voicetrainig\voicetrainig\obj\Debug\voicetrainig.application

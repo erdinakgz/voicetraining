@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2AA392C0-DAA4-4E87-86F8-955C624C5AAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>voicetrainig</RootNamespace>
+    <AssemblyName>voicetrainig</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\TOSHIBA\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>11FAD9D95683424F4310F9AF8416BDBAEB09C912</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>voicetrainig_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anCat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="anCat.Designer.cs">
+      <DependentUpon>anCat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_gunlukhayat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_gunlukhayat.Designer.cs">
+      <DependentUpon>frm_gunlukhayat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ornekform2_su.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ornekform2_su.Designer.cs">
+      <DependentUpon>ornekform2_su.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ornekform3_kara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ornekform3_kara.Designer.cs">
+      <DependentUpon>ornekform3_kara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usr_bitkiler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usr_bitkiler.Designer.cs">
+      <DependentUpon>usr_bitkiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="buton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="buton.Designer.cs">
+      <DependentUpon>buton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_hakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_hakkinda.Designer.cs">
+      <DependentUpon>frm_hakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_menu.Designer.cs">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kenarlık.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ornekform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ornekform.Designer.cs">
+      <DependentUpon>ornekform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="usr_hayvan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usr_hayvan.Designer.cs">
+      <DependentUpon>usr_hayvan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usr_logo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usr_logo.Designer.cs">
+      <DependentUpon>usr_logo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="anCat.resx">
+      <DependentUpon>anCat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buton.resx">
+      <DependentUpon>buton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_gunlukhayat.resx">
+      <DependentUpon>frm_gunlukhayat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_hakkinda.resx">
+      <DependentUpon>frm_hakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_menu.resx">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kenarlık.resx">
+      <DependentUpon>kenarlık.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ornekform.resx">
+      <DependentUpon>ornekform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ornekform2_su.resx">
+      <DependentUpon>ornekform2_su.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ornekform3_kara.resx">
+      <DependentUpon>ornekform3_kara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="usr_bitkiler.resx">
+      <DependentUpon>usr_bitkiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usr_hayvan.resx">
+      <DependentUpon>usr_hayvan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usr_logo.resx">
+      <DependentUpon>usr_logo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="voicetrainig_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-4-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-4-256 - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-88-48 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microphone-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mikro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter-4-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook-4-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Picturbox\hayvanlar-havada\picKartal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SpeechLib">
+      <Guid>{C866CA3A-32F7-11D2-9602-00C04F8EE628}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
